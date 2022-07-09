@@ -1,0 +1,15 @@
+D:\GB\practical_work_CS_lesson_9\Task01_S9\bin\Debug\net6.0\Task01_S9.exe
+D:\GB\practical_work_CS_lesson_9\Task01_S9\bin\Debug\net6.0\Task01_S9.deps.json
+D:\GB\practical_work_CS_lesson_9\Task01_S9\bin\Debug\net6.0\Task01_S9.runtimeconfig.json
+D:\GB\practical_work_CS_lesson_9\Task01_S9\bin\Debug\net6.0\Task01_S9.dll
+D:\GB\practical_work_CS_lesson_9\Task01_S9\bin\Debug\net6.0\Task01_S9.pdb
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\Task01_S9.csproj.AssemblyReference.cache
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\Task01_S9.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\Task01_S9.AssemblyInfoInputs.cache
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\Task01_S9.AssemblyInfo.cs
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\Task01_S9.csproj.CoreCompileInputs.cache
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\Task01_S9.dll
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\refint\Task01_S9.dll
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\Task01_S9.pdb
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\Task01_S9.genruntimeconfig.cache
+D:\GB\practical_work_CS_lesson_9\Task01_S9\obj\Debug\net6.0\ref\Task01_S9.dll
